@@ -1,17 +1,3 @@
-Add a description, image, and links to the java-spring-boot-project topic page so that developers can more easily learn about it.
-
-Curate this topic 
-
-Add this topic to your repo
-To associate your repository with the java-spring-boot-project topic, visit your repo's landing page and select "manage topics."
-
-Learn more 
-
-
-Online Food Ordering System: The system allows administrators to create, update, and manage food items. Users can browse available food items, add them to their cart, and place orders.
-
-
-
 
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
